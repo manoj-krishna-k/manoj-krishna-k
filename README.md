@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Building+Cross-Platform+Mobile+Apps+%F0%9F%93%B1;Flutter+%2B+Firebase+%2B+Spring+Boot;Full+Stack+Developer+in+Progress+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9C%A8;ISTE+Best+Student+Awardee+%F0%9F%8F%86" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Building+Cross-Platform+Mobile+Apps+%F0%9F%93%B1;Model+Building;Full+Stack+Developer+in+Progress+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9C%A8;ISTE+Best+Student+Awardee+%F0%9F%8F%86" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -235,7 +235,7 @@ Clinical Markers Input (11 Parameters)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com)
 [![Email](https://img.shields.io/badge/Email-Say_Hi!-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manojprof6@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://manoj-krishna.web.app)
 
 <br/>
 
