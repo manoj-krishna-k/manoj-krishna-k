@@ -148,12 +148,12 @@ Clinical Markers Input (11 Parameters)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Manoj's&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=manoj-krishna-k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=manoj-krishna-k&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="48%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoj-krishna-k&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" width="48%" />
 
 </div>
 
@@ -163,7 +163,7 @@ Clinical Markers Input (11 Parameters)
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=manoj-krishna-k&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
 
 </div>
 
@@ -197,7 +197,7 @@ Clinical Markers Input (11 Parameters)
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manoj-krishna-k&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -208,9 +208,9 @@ Clinical Markers Input (11 Parameters)
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YourGitHubUsername/YourGitHubUsername/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YourGitHubUsername/YourGitHubUsername/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/YourGitHubUsername/YourGitHubUsername/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YourGitHubUsername/manoj-krishna-k/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YourGitHubUsername/manoj-krishna-k/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/YourGitHubUsername/manoj-krishna-k/output/github-snake.svg" />
 </picture>
 
 </div>
